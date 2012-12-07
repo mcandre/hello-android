@@ -6,5 +6,5 @@
 
 # INSTALL
 
-$ ant debug
-$ adb install bin/HelloAndroid-debug.apk
+	$ ant debug
+	$ adb install bin/HelloAndroid-debug.apk
