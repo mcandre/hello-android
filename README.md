@@ -6,7 +6,7 @@ https://play.google.com/store/apps/details?id=us.yellosoft.helloandroid
 
 # VERSION
 
-1.0
+1.1
 
 # INSTALL
 
