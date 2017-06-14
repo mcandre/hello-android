@@ -21,3 +21,8 @@ publish: zipalign
 
 clean:
 	-rm -rf bin
+
+editorconfig:
+	flcl . | xargs -n 100 editorconfig-cli check
+
+lint: editorconfig
